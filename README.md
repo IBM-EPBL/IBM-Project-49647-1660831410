@@ -14,7 +14,7 @@ Corporate Employee Attrition Analytics
 
 **Team member :** Gokulakannan S
 
-**Team member :** Gajendran M
+**Team member :** Gajendran M     
 
 ---
 **Industry Mentor(s) Name :** Shanawaz Anwar
